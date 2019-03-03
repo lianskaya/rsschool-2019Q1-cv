@@ -138,7 +138,18 @@ int main()
 
 
 ```
-# Expirience
+# Expirience:
 * html-academy
 * codeacademy
 * played with html/css/js
+# Aducation: 
+* Univercity
+* Youtube
+* Conferences 
+# Languages:
+* *Russian* - Native
+* *German* - B1 (lerned in school end in university)
+* *English* - A2 (currently attending courses, read books and documentation)
+
+ 
+ 
