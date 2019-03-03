@@ -16,7 +16,7 @@ Always try to self-educate. I would like to develop my skills in that direction.
 * Angular
 * jQuery
 # Code examples:
-```c++
+```
 #include "stdafx.h" 
 #include "iostream" 
 #include <conio.h> 
@@ -73,7 +73,7 @@ int main()
 }
 ```
 
-```c++
+```
 #include "stdafx.h"
 #include <iostream>
 #include <cmath>
