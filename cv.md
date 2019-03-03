@@ -26,7 +26,7 @@ int main()
 {
 	setlocale(LC_ALL, "rus");
 	int n, sum = 0;
-	cout << "Введите размер двумерного массива" << endl;
+	cout << "Введите aразмер двумерного массива" << endl;
 	cin >> n;
 	int **A = new int*[n];
 
@@ -72,6 +72,7 @@ int main()
 	return 0;
 }
 ```
+
 ```c++
 #include "stdafx.h"
 #include <iostream>
@@ -135,15 +136,14 @@ int main()
 	system("pause");
     return main();
 }
-
-
 ```
-# Expirience:
+
+# Experience:
 * html-academy
 * codeacademy
 * played with html/css/js
-# Aducation: 
-* Univercity
+# Education: 
+* University
 * Youtube
 * Conferences 
 # Languages:
