@@ -1,14 +1,84 @@
 body{
     width: 500px;
     margin: 0 auto;
+    font-family: Arial;
+    min-width: 500px;
 }
 .myphoto{
     width: 400px;
     height: 400px;
     object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
     
     
 }
+.myphoto:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+h1{
+    text-align: center;
+}
+.top{
+    width: 500px;
+    background-color: #897670;
+    height: 100%;
+}
 
+.name{
+    text-align: center;
+}
 
+h3{
+    font-size: 22px;
+    position: relative;
+    left: 10px;
+}
+.summary h3{
+    position: relative;
+    width: 480px;
+    
+    font-size: 16px;
+    
+    left: 10px;
 
+}
+.examples{
+    background:#c6c7c2;
+    font-size: 10px;
+    width: 400px;
+    opacity: 0.7;
+ 
+}
+.sum{
+    background: #8976;
+}
+.examples1{
+    font-size: 10px;
+    width: 400px;
+    background: #c6c7c2;
+    opacity: 0.7;
+}
+.seredina{
+    background:#897670;
+    width: 500px;
+}
+.summary1, .skills{
+    background: #8976;
+    width: 480px;
+    left: 10px;
+    position: relative;
+}
+.firstname, .name1, .cont1{
+    background: #c6c7c2;
+    width: 480px;
+    left: 10px;
+    position: relative;
+
+    opacity: 0.7;
+}
