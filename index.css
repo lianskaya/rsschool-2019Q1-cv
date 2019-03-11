@@ -68,7 +68,7 @@ h3{
     background:#897670;
     width: 500px;
 }
-.summary1, .skills{
+.summary1, .skills, .exp, .lang, .ed{
     background: #8976;
     width: 480px;
     left: 10px;
@@ -81,4 +81,8 @@ h3{
     position: relative;
 
     opacity: 0.7;
+}
+.niz{
+    background: #8976;
+    width: 500px;
 }
